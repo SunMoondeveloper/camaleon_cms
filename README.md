@@ -5,9 +5,9 @@ This is fully free. you can setup this application in your server and started to
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version => Rails 6.0.3.3
 
-* System dependencies
+* System dependencies 
 
 * Configuration
 
