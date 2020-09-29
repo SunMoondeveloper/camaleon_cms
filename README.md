@@ -1,7 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is developed by sunmoondeveloper, this application is help to content management in you application.
+This is fully free. you can setup this application in your server and started to use
 
 Things you may want to cover:
 
